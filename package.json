@@ -1,5 +1,6 @@
 {
-  "name": "shellies-ng",
+  "private": false,
+  "name": "@lukyer/shellies-ng",
   "version": "1.5.1",
   "description": "Handles communication with the next generation of Shelly devices",
   "main": "dist/index.js",
